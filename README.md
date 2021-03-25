@@ -12,3 +12,7 @@ This employee tracker application is a great tool for any small sized company th
 ## Links
 [Walkthrough Video Link] ()
 [Github Repo] (https://github.com/brdyherr/employee-tracker)
+
+## Preview
+
+![image](./images/appPreview.JPG)
