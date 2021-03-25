@@ -15,5 +15,5 @@ This employee tracker application is a great tool for any small sized company th
 
 ## Preview
 
-![Caption](\assets\Employee-Tracker-g.gif)
+![Caption](./assets/Employee-Tracker-g.gif)
 
