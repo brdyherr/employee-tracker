@@ -9,10 +9,11 @@ This employee tracker application is a great tool for any small sized company th
 - MySQL
 - JavaScript
 
-## Links
-[Walkthrough Video Link] ()
-[Github Repo] (https://github.com/brdyherr/employee-tracker)
+## Link
+
+[Github Repo](https://github.com/brdyherr/employee-tracker)
 
 ## Preview
 
-![image](./images/appPreview.JPG)
+![Caption](\assets\Employee-Tracker-g.gif)
+
